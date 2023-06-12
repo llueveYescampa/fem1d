@@ -1,6 +1,8 @@
 # fem1d
 
 instalation process:
+
+
   1.- create a working directory.
         mkdir build
 
