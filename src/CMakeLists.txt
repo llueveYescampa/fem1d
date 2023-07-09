@@ -1,7 +1,7 @@
 # Include the directory itself as a path to include directories
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
-#Create a variable called linalg_SOURCES containing all .cpp files:
+#Create a variable called linalg_SOURCES containing all .f90 files:
 
 add_subdirectory(fem1d)
 add_subdirectory(assemble)
